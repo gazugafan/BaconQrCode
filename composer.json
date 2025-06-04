@@ -46,10 +46,5 @@
             "/test",
             "/phpunit.xml.dist"
         ]
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-main": "3.0.1"
-        }
     }
 }
